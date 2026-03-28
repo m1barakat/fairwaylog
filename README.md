@@ -7,7 +7,7 @@ Your personal golf outing tracker — South Shore MA courses, hole-by-hole stats
 ## Deploy to Vercel (one-time setup, ~10 minutes)
 
 ### Step 1 — Create a GitHub account
-Go to https://github.com and sign up (free). Skip if you already have one.
+Go to https://github.com and sign up (free). Skip if you already have one. 
 
 ### Step 2 — Create a new repository
 1. Click the **+** icon (top right) → **New repository**
